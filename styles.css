@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  margin: 0;
+  padding: 0;
+  background-color: grey;
+}
+
+/* Player card */
+.player-card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
